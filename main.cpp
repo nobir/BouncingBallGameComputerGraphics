@@ -82,7 +82,7 @@ void initializeGame()
     barX1.move_up = GL_FALSE;
     barX1.move_down = GL_FALSE;
 
-    // Bar X 1
+    // Bar X 2
     barX2.positionY = -(height - barX2.getSizeY());
     barX2.positionX = 0.0f;
     barX2.move_left = GL_FALSE;

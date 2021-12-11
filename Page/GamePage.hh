@@ -83,7 +83,7 @@ void gamePage()
         {(width + gutter) * 1.0f, (height + gutter) * 1.0f},
         {width * 1.0f, (height + gutter) * 1.0f},
         {34, 47, 62, 255});
-    // Border tor
+    // Border top
     drawQuad(
         {-(width + gutter) * 1.0f, height * 1.0f},
         {(width + gutter) * 1.0f, height * 1.0f},
