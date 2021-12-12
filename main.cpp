@@ -425,6 +425,8 @@ void keyboardDown(unsigned char key, int x, int y)
         is_game_over = GL_FALSE;
         is_keyBoard_shortcut_page = GL_FALSE;
 
+        ball1.rgbaColor = {255, 121, 63, 255};
+
         break;
     case 'e':
 
